@@ -1,0 +1,11 @@
+.navbar-brand img {
+  background-color: aliceblue;
+  width: 130px;
+  height: 60px;
+}
+
+.nav-buttons {
+  display: flex;
+  justify-content: flex-end;
+  float: right;
+}
